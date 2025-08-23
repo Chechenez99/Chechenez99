@@ -33,13 +33,14 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 - **Mini Project** — полный ML-цикл: сбор и очистка данных, feature engineering, обучение моделей и оценка.  
   🔹 Результат: рабочая модель с воспроизводимым ноутбуком и отчётом по метрикам.
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60" align="left"/>  
+---
 
-### Стек
+### 🧰 Стек технологий
 
-**Python**, **NumPy**, **Pandas**, **scikit-learn**, **Matplotlib**, **TensorFlow/PyTorch**  
-**Django/DRF**, **PostgreSQL**, **WebSockets**  
-**React**, **Tailwind CSS**, **JWT**, **Yandex Maps API**
+- **Языки и библиотеки:** Python • NumPy • Pandas • scikit-learn • Matplotlib • TensorFlow / PyTorch  
+- **Backend:** Django / DRF • WebSockets • Redis  
+- **Databases:** PostgreSQL • MongoDB  
+- **Frontend:** React • Tailwind CSS • JWT • Yandex Maps API
 
 ---
 
