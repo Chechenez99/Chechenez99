@@ -46,7 +46,7 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 ### 📌 Закреплённые репозитории
 - [`Pet-Social`](https://github.com/Chechenez99/fluffygram.git) — дипломный проект: социальная сеть для владельцев животных (Django + React + WebSockets + Yandex Maps).
 - [`ML-Models`](https://github.com/Chechenez99/ML-Models.git) — набор проектов по нейронным сетям (MLP, CNN, Hopfield).  
-- [`AVT-118`](https://github.com/Chechenez99/ml-labs-rgr.git) — учебные лабораторные и РГР (EDA, визуализация, baseline-модели, end-to-end ML pipeline).
+- [`ml-labs-rgr`](https://github.com/Chechenez99/ml-labs-rgr.git) — учебные лабораторные и РГР (EDA, визуализация, baseline-модели, end-to-end ML pipeline).
 
 ---
 
