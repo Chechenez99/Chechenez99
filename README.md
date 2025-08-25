@@ -1,4 +1,4 @@
-<h1 align="center">🐾Привет! Я Милана 🐾</h1>
+<h1 align="center">Привет! Я Милана </h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtvaXhiYjhvOXppeW43N2JvemVva3JvajNoNnM3am1pMWpldWI3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkcIQY7IuctvFCGAD3/giphy.gif" width="150"/>
@@ -10,7 +10,7 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 
 ---
 
-### 🚀 Учебные проекты (ML / DL)
+###  Учебные проекты (ML / DL)
 
 - **Multilayer Perceptron (MLP)** — реализация многослойного перцептрона для задачи классификации.  
   🔹 Результат: стабильная точность на тестовой выборке, опыт подбора архитектуры и гиперпараметров.
@@ -35,7 +35,7 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 
 ---
 
-### 🧰 Стек технологий
+### Стек технологий
 
 - **Языки и библиотеки:** Python • NumPy • Pandas • scikit-learn • Matplotlib • TensorFlow / PyTorch  
 - **Backend:** Django / DRF • WebSockets • Redis  
@@ -44,19 +44,19 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 
 ---
 
-### 📌 Закреплённые репозитории
+### Закреплённые репозитории
 - [`Pet-Social`](https://github.com/Chechenez99/fluffygram.git) — дипломный проект: социальная сеть для владельцев животных (Django + React + WebSockets + Yandex Maps).
 - [`ML-Models`](https://github.com/Chechenez99/ML-Models.git) — набор проектов по нейронным сетям (MLP, CNN, Hopfield).  
 - [`ml-labs-rgr`](https://github.com/Chechenez99/ml-labs-rgr.git) — учебные лабораторные и РГР (EDA, визуализация, baseline-модели, end-to-end ML pipeline).
 
 ---
 
-### 🗺️ Side-project
+### Side-project
 **Pet Social** — социальная сеть для владельцев животных: посты, чаты, карта вет-сервисов (Django + React + WebSockets + JWT + Yandex Maps).  
 
 ---
 
-### 🎓 Образование и интересы
+###  Образование и интересы
 - Студентка НГТУ НЭТИ направления **«Информатика и вычислительная техника»**.  
 - Обучаюсь в **Школе 21 (Sber)** по треку Data Science.  
 - Интересы: машинное обучение, нейронные сети, веб-разработка, pet-проекты.  
@@ -64,7 +64,7 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 
 ---
 
-### 💬 Со мной связаться
+###  Со мной связаться
 - Telegram: [@rigelsty](https://t.me/rigelsty)  
 - Email: chechelmilana45@gmail.com
 
