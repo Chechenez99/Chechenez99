@@ -59,13 +59,13 @@ ML & Data Science • Python • Django/DRF • React • PostgreSQL
 ###  Образование и интересы
 - Студентка НГТУ НЭТИ направления **«Информатика и вычислительная техника»**.  
 - Обучаюсь в **Школе 21 (Sber)** по треку Data Science.  
-- Интересы: машинное обучение, нейронные сети, веб-разработка, pet-проекты.  
+- Интересы: машинное обучение, нейронные сети.  
 - Постоянно прокачиваю **Python, математику, английский язык**.  
 
 ---
 
 ###  Со мной связаться
-- Telegram: [@rigelsty](https://t.me/rigelsty)  
+- Telegram: [@chechel_milana](https://t.me/chechel_milana)  
 - Email: chechelmilana45@gmail.com
 
 ---
